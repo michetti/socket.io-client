@@ -2,7 +2,7 @@ socket.io
 =========
 
 #### DONT USE THIS FORK
-This forks only objective is to emit and event when a noop package is received
+This forks only objective is to emit an event when a noop package is received
 by Socket.IO-Client using XHR-Polling. We are using it to do a benchmark
 between Websocket and Comet.
 
