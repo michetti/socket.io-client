@@ -1,5 +1,5 @@
 {
-    "name": "socket.io-client"
+    "name": "socket.io-client-benchmark"
   , "description": "Socket.IO client for the browser and node.js"
   , "version": "0.8.5"
   , "main" : "./lib/io.js"

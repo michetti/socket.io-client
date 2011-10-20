@@ -1,6 +1,13 @@
 socket.io
 =========
 
+#### DONT USE THIS FORK
+This forks only objective is to emit and event when a noop package is received
+by Socket.IO-Client using XHR-Polling. We are using it to do a benchmark
+between Websocket and Comet.
+
+So, unless you are using my 'holychat' project for benchmarking, don't use this fork.
+
 #### Sockets for the rest of us
 
 The `socket.io` client is basically a simple HTTP Socket interface implementation.
